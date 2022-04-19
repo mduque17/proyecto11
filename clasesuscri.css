@@ -1,0 +1,213 @@
+.suscribirse{
+
+}
+
+.imagen2{
+	position: absolute;
+	top: 0%;
+	left: -12%;
+	width: 72.6%;
+	height: 100%;
+	background-image: url(logo7.jpg);
+	background-repeat: no-repeat;
+	
+}
+.nombre1{
+	position: absolute;
+	top: 8%;
+	left: 72%;
+	font-size: 45px;
+	color: #D11F1F;
+	font-family: fuente3;
+	z-index: 21;
+}
+.caja1{
+	position: absolute;
+	top: 25%;
+	left: 55%;
+	width: 41%;
+	height: 66%;
+	border: 1px solid #F8F9F9;
+	border-radius: 4px;
+	background-color:#D11F1F;
+}
+.fo{
+	position: absolute;
+	top: 10%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.fo1{
+	position: absolute;
+	top: 27%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.fo2{
+	position: absolute;
+	top: 44%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.fo3{
+	position: absolute;
+	top: 61%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.en{
+	position: absolute;
+	top: 79%;
+	left: 32%;
+	width: 36%;
+	height: 12%;
+	border: 1px;
+	background-color: black;
+	color:white;
+	font-family: fuente1;
+	font-size: 25px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+@media only screen and (max-width: 600px){
+	.imagen2{
+	position: absolute;
+	top: 0%;
+	left: -10%;
+	width: 110%;
+	height: 40%;
+	background-image: url(logo3.png);
+	background-repeat: no-repeat;
+	
+}
+.nombre1{
+	position: absolute;
+	top: 30%;
+	left: 13%;
+	font-size: 28px;
+	color: #D11F1F;
+	font-family: fuente3;
+	z-index: 21;
+}
+.caja1{
+	position: absolute;
+	top: 45%;
+	left: 10%;
+	width: 80%;
+	height: 66%;
+	border: 1px solid #F8F9F9;
+	border-radius: 4px;
+	background-color:#D11F1F;
+}
+.fo{
+	position: absolute;
+	top: 10%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.fo1{
+	position: absolute;
+	top: 27%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.fo2{
+	position: absolute;
+	top: 44%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.fo3{
+	position: absolute;
+	top: 61%;
+	left: 25%;
+	width: 50%;
+	height: 10%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.en{
+	position: absolute;
+	top: 79%;
+	left: 32%;
+	width: 36%;
+	height: 12%;
+	border: 1px;
+	background-color: black;
+	color:white;
+	font-family: fuente1;
+	font-size: 25px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+}
+
+
+
+@font-face{
+	font-family: fuente;
+	src: url(Gobold.otf);
+}
+@font-face{
+	font-family: fuente1;
+	src: url(BebasNeue.ttf);
+}
+@font-face{
+	font-family: fuente2;
+	src: url(big.ttf);
+}
+@font-face{
+	font-family: fuente3;
+	src: url(urae.ttf);
+}
+@font-face{
+	font-family: fuente4;
+	src: url(corta.ttf);
+}
+@font-face{
+	font-family: fuente5;
+	src: url(coco.ttf);
+}
+@font-face{
+	font-family: fuente6;
+	src: url(Louis.ttf);
+}

@@ -1,0 +1,177 @@
+.index{
+
+}
+.lo{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 14%;
+	background-color:white;
+	opacity: 0.8;
+	z-index: 20;
+}
+.nombre{
+	position: absolute;
+	top: 2%;
+	left: 10%;
+	font-size: 35px;
+	color: #D11F1F;
+	font-family: fuente3;
+	z-index: 21;
+
+}
+.imagen{
+	position: absolute;
+	top:-8%;
+	left: 0%;
+	height: 108%;
+	width: 100%;
+	z-index: 19;
+	opacity: 0.98;
+	background-image: url(logo144.jpg);
+	background-repeat: no-repeat;
+}
+.in{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	font-size: 70px;
+	color: white;
+	font-family: fuente1 ;
+	z-index: 25;
+}
+.but{
+	position: absolute;
+	top: 3.6%;
+	left: 80%;
+	width: 12%;
+	height: 8%;
+	background-color: #D11F1F;
+	color: white;
+	font-family: fuente6;
+	font-size: 20px;
+	z-index: 21;
+	border: 1px solid white ;
+	border-radius: 35px;
+}
+.but1{
+	position: absolute;
+	top: 60%;
+	left: 12%;
+	width: 12%;
+	height: 8%;
+	background-color: #D11F1F;
+	color: white;
+	font-family: fuente6;
+	font-size: 20px;
+	z-index: 21;
+	border: 1px solid white ;
+	border-radius: 35px;
+}
+@media only screen and (max-width: 500px){
+.index{
+
+}
+.lo{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 14%;
+	background-color:white;
+	opacity: 0.8;
+	z-index: 20;
+}
+.nombre{
+	position: absolute;
+	top: 2%;
+	left: 15%;
+	font-size: 35px;
+	color: #D11F1F;
+	font-family: fuente3;
+	z-index: 21;
+
+}
+.imagen{
+	position: absolute;
+	top:0%;
+	left: -50%;
+	height: 100%;
+	width: 150%;
+	z-index: 19;
+	opacity: 0.98;
+	background-image: url(logo12.jpg);
+	background-repeat: no-repeat;
+}
+.in{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	font-size: 58px;
+	color: white;
+	font-family: fuente1 ;
+	z-index: 25;
+}
+.but{
+	position: absolute;
+	top: 2.8%;
+	left: 60%;
+	width: 31%;
+	height: 8%;
+	background-color: #D11F1F;
+	color: white;
+	font-family: fuente6;
+	font-size: 20px;
+	z-index: 21;
+	border: 1px solid white ;
+	border-radius: 22px;
+}
+.but1{
+	position: absolute;
+	top: 59%;
+	left: 20%;
+	width: 29%;
+	height: 8%;
+	background-color: #D11F1F;
+	color: white;
+	font-family: fuente6;
+	font-size: 20px;
+	z-index: 21;
+	border: 1px solid white ;
+	border-radius: 22px;
+}
+	}
+
+
+
+@font-face{
+	font-family: fuente;
+	src: url(Gobold.otf);
+}
+@font-face{
+	font-family: fuente1;
+	src: url(BebasNeue.ttf);
+}
+@font-face{
+	font-family: fuente2;
+	src: url(big.ttf);
+}
+@font-face{
+	font-family: fuente3;
+	src: url(urae.ttf);
+}
+@font-face{
+	font-family: fuente4;
+	src: url(corta.ttf);
+}
+@font-face{
+	font-family: fuente5;
+	src: url(coco.ttf);
+}
+@font-face{
+	font-family: fuente6;
+	src: url(Louis.ttf);
+}
+
+

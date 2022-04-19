@@ -1,0 +1,172 @@
+.sesion{
+
+}
+
+.imagen1{
+	position: absolute;
+	top: 0%;
+	left: -12%;
+	width: 72.6%;
+	height: 100%;
+	background-image: url(logo8.jpg);
+	
+}
+.nombre1{
+	position: absolute;
+	top: 8%;
+	left: 76%;
+	font-size: 45px;
+	color: #D11F1F;
+	font-family: fuente3;
+	z-index: 21;
+}
+.caja{
+	position: absolute;
+	top: 25%;
+	left: 65%;
+	width: 31%;
+	height: 61%;
+	border: 1px solid #F8F9F9;
+	border-radius: 4px;
+	background-color:#D11F1F;
+}
+.f{
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 12%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.f1{
+	position: absolute;
+	top: 45%;
+	left: 25%;
+	width: 50%;
+	height: 12%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.e{
+	position: absolute;
+	top: 65%;
+	left: 32%;
+	width: 36%;
+	height: 12%;
+	border: 1px;
+	background-color: black;
+	color:white;
+	font-family: fuente1;
+	font-size: 25px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+@media only screen and (max-width: 600px){
+	.sesion{
+
+}
+
+.imagen1{
+	position: absolute;
+	top: -8%;
+	left: 0%;
+	width: 100%;
+	height: 49%;
+	background-image: url(logo44.jpg);
+	background-repeat: no-repeat;
+	opacity: 0.86;
+	
+}
+.nombre1{
+	position: absolute;
+	top: 27%;
+	left: 8%;
+	font-size: 42px;
+	color: #D11F1F;
+	font-family: fuente3;
+	z-index: 21;
+}
+.caja{
+	position: absolute;
+	top: 45%;
+	left: 10%;
+	width: 80%;
+	height: 50%;
+	border: 1px solid #F8F9F9;
+	border-radius: 4px;
+	background-color:#D11F1F;
+}
+.f{
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 12%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.f1{
+	position: absolute;
+	top: 45%;
+	left: 25%;
+	width: 50%;
+	height: 12%;
+	border: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+.e{
+	position: absolute;
+	top: 65%;
+	left: 32%;
+	width: 36%;
+	height: 12%;
+	border: 1px;
+	background-color: black;
+	color:white;
+	font-family: fuente1;
+	font-size: 25px;
+	border-radius: 1px;
+	-webkit-box-shadow: 1px 1px 4px black;
+    -moz-box-shadow: 2px 2px 4px black;
+}
+}
+
+
+@font-face{
+	font-family: fuente;
+	src: url(Gobold.otf);
+}
+@font-face{
+	font-family: fuente1;
+	src: url(BebasNeue.ttf);
+}
+@font-face{
+	font-family: fuente2;
+	src: url(big.ttf);
+}
+@font-face{
+	font-family: fuente3;
+	src: url(urae.ttf);
+}
+@font-face{
+	font-family: fuente4;
+	src: url(corta.ttf);
+}
+@font-face{
+	font-family: fuente5;
+	src: url(coco.ttf);
+}
+@font-face{
+	font-family: fuente6;
+	src: url(Louis.ttf);
+}
